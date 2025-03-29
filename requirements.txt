@@ -4,3 +4,17 @@ pandas
 scikit-learn
 nltk
 datasets
+google-generativeai
+groq
+seaborn
+praw
+pandas
+torch
+transformers
+yake
+keybert
+matplotlib
+wordcloud
+groq
+streamlit
+scikit-learn
